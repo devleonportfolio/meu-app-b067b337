@@ -1,0 +1,21 @@
+{
+  "appName": "Meu app",
+  "orientation": "portrait",
+  "fullscreen": false,
+  "deeplinkHost": "",
+  "androidPermissions": [
+    "android.permission.INTERNET",
+    "android.permission.CAMERA",
+    "android.permission.READ_MEDIA_IMAGES"
+  ],
+  "iosUsageDescriptions": [
+    {
+      "key": "NSCameraUsageDescription",
+      "value": "Usamos a câmera para você enviar fotos no app."
+    },
+    {
+      "key": "NSPhotoLibraryUsageDescription",
+      "value": "Usamos suas fotos para você enviar imagens no app."
+    }
+  ]
+}
